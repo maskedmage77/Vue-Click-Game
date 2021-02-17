@@ -1,5 +1,7 @@
 # vue-click-game
 
+This project was a small created following a tutorial by The Net Ninja. 
+
 ## Project setup
 ```
 npm install

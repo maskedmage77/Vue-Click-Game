@@ -1,6 +1,6 @@
 # vue-click-game
 
-This project was a small created following a tutorial by The Net Ninja. 
+This project was created following a tutorial by The Net Ninja. 
 
 ## Project setup
 ```
